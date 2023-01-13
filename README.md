@@ -1,16 +1,3 @@
-# application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK: 3.3.10
+- webview_flutter: 3.0.4
+- setting - [https://velog.io/@chw1787/Flutter-1-플러터-환경설정하기](https://velog.io/@chw1787/Flutter-1-%ED%94%8C%EB%9F%AC%ED%84%B0-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
